@@ -3,7 +3,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)
 ![Dart](https://img.shields.io/badge/Dart-3.x-blue.svg)
 ![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 WhoYou is a mobile application designed to detect potential phone scams by converting speech into text and analyzing conversations using keyword matching and Natural Language Processing (NLP).
 
